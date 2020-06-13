@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107443314358",
+    "firebase_url": "https://last-cef3e.firebaseio.com",
+    "project_id": "last-cef3e",
+    "storage_bucket": "last-cef3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107443314358:android:116a3da9783b30c2959017",
+        "android_client_info": {
+          "package_name": "com.goudjal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107443314358-falfpeor8df346aenctfp1sm45gpn2q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVVeYw6KkfkxGvUMgTmmDFYSnPZS5Bq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107443314358-falfpeor8df346aenctfp1sm45gpn2q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
