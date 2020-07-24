@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845622529624",
+    "firebase_url": "https://face-rec-c892b.firebaseio.com",
+    "project_id": "face-rec-c892b",
+    "storage_bucket": "face-rec-c892b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845622529624:android:d2b3df26586c4f80b1842d",
+        "android_client_info": {
+          "package_name": "com.goudjal.face_rec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845622529624-uv7li2sjcbvcek5ito3se7s0ble7er2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgO4mYP01E-_7_9H61snpNJacKQmr6B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845622529624-uv7li2sjcbvcek5ito3se7s0ble7er2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
